@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Sidney 👋
 
 <!--
 **sidesbutgithub/sidesbutgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently and undergraduate studying computer science at Rutgers University New Brunswick
+- Most of my experience is in backend software engineering
